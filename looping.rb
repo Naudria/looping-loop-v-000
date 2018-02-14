@@ -3,3 +3,4 @@ def looping
 end
 
 loop do
+end
